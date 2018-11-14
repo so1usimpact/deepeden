@@ -1,2 +1,0 @@
-testfile1 server text
-Major change added in v0.1

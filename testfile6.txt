@@ -1,3 +1,0 @@
-I feel pretty good about this code, so I'm comfortable committing
-it to the Master branch.  It is independent of the experimental
-code I was working on earlier today in testfile5.txt.

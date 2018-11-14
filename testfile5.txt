@@ -1,7 +1,0 @@
-This is some experimental code I wouldn't want to commit yet
-to the master branch.
-
-Here is another line, after which I'm confident that this code
-is ready for deployment.
-
-Oh wait, one more thing.  Now I'm really done.
