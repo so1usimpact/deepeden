@@ -20,7 +20,7 @@ import deepeden as de
 # problem requires a learning algorithm to learn the X-OR mapping
 # (0,0) -> 0
 # (0,1) -> 1
-# (1,0) -> 1wf
+# (1,0) -> 1
 # (1,1) -> 0
 x_or_problem = de.problem.xor
 
